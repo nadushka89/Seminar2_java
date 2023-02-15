@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-02-15T20:46:16.682074700Z</date>
+  <millis>1676493976682</millis>
+  <nanos>74700</nanos>
+  <sequence>0</sequence>
+  <logger>task3HOME</logger>
+  <level>INFO</level>
+  <class>task3HOME</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Простой калькулятор</message>
+</record>
+</log>
